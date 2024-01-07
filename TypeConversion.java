@@ -3,8 +3,8 @@ public class TypeConversion {
         double a = 3.0F;
         System.out.println(a);
 
-        byte b = 1;
-        double aa = b;
+        // byte b = 1;
+        // double a = b;
         
     }
     

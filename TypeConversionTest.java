@@ -9,6 +9,5 @@ public class TypeConversionTest {
         System.out.println(str.getClass().getName());
         System.out.println(i.getClass().getName());
         System.out.println(list.getClass().getName()); //Type 확인
-
     }
 }
