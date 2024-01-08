@@ -1,3 +1,4 @@
+package study;
 public class Switch {
     public static void main(String[] args){
         System.out.println("switch(1)");

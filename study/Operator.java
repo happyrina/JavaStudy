@@ -1,3 +1,4 @@
+package study;
 public class Operator {
     public static void main(String[] args) {
         int i = 3;

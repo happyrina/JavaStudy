@@ -1,3 +1,4 @@
+package study;
 import java.util.ArrayList;
 
 public class TypeConversionTest {

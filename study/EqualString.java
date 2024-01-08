@@ -1,3 +1,4 @@
+package study;
 public class EqualString {
     public static void main(String[] args) {
         String a = "Hello world";
